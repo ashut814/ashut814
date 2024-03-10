@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Harness.io as CX Intern<br><br>🌱 I’m currently learning ReactJs, Nodejs, ExpressJs, Typescript,Nextjs,Spring boot<br><br>💬 Ask me about React, Express, Nextjs, Spring boot<br><br>📫 How to reach me ashutoshtr2427@gmail.com
+🔭 I’m currently working in Harness.io as Engineer<br><br>🌱 I’m currently learning ReactJs, Nodejs, ExpressJs, Typescript,Nextjs,Spring boot<br><br>💬 Ask me about React, Express, Nextjs, Spring boot<br><br>📫 How to reach me ashutoshtr2427@gmail.com
 
 
 ## 🌐 Socials:
